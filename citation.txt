@@ -1,0 +1,7 @@
+@inproceedings{REPO200,
+    author = "Mansour, Youssef and Heckel, Reinhard",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "14018--14027",
+    title = "{Zero-Shot Noise2Noise: Efficient Image Denoising without any Data}",
+    year = "2023"
+}
